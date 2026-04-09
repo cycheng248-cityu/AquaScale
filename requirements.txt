@@ -1,0 +1,18 @@
+pip==24.0
+setuptools==65.5.0
+
+# AI & Computer Vision
+ultralytics>=8.1.0
+opencv-python
+numpy
+
+# Math & Physics Engine
+scipy
+bezier
+
+# IoT & Backend
+firebase-admin
+Flask
+
+# Networking
+subprocess.run
