@@ -68,6 +68,7 @@ google-services.json
 GoogleService-Info.plist
 *.log
 .env
+lib/firebase_options.dart
 
 # Symbolication related
 app.*.symbols
