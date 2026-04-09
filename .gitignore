@@ -1,0 +1,12 @@
+# Python Bloat
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+ultralytics/
+*.so
+*.exe
+
+# Firebase/Private Secrets
+serviceAccountKey.json
+*.log

@@ -1,0 +1,9 @@
+serviceAccountKey.json
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+venv/
+ultralytics/
+*.exe
+*.so
