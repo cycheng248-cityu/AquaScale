@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AquaScale: Autonomous Biological Edge Monitor (Public Beta)
 
 AquaScale is a high-speed, computer-vision-based system designed for non-invasive monitoring of fish biomass, health, and activity in aquaculture environments. Optimized for the **Raspberry Pi 5**, this system utilizes NCNN-accelerated inference to provide real-time population analytics.
@@ -41,8 +41,3 @@ We are seeking aquaculture professionals and developers to test the framework in
 Disclaimer: This is a beta-release intended for research and testing. Please ensure all hardware is properly waterproofed before tank deployment.
    
 
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> eeb3e4e (feat: integrate flutter mobile app into system)
